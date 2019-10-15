@@ -4,3 +4,4 @@ Dodano trzecia linie go galezi master
 Dodano czwarta linie go galezi master
 
 Dodano kolejna linie
+Dodam linie w fork aby wykonac pull requesta
