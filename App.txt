@@ -1,1 +1,2 @@
 Zmieniono w pliku pierwsza linie
+Dodano druga linie go galezi master
