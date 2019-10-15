@@ -1,3 +1,4 @@
 Zmieniono w pliku pierwsza linie
 Dodano druga linie go galezi master
 Dodano trzecia linie go galezi master
+Dodano czwarta linie go galezi master
